@@ -5,3 +5,5 @@ W maju powstała wersja 1.0
 Jest to kompletna wersja gry: Menu + Opcje, Jedna mapa w pełni grywalna bez bugow dla jednego gracza, jeden rodzaj jedzonka zwiekszający węża, Score/High score, Ekran Game Over z funkcyjnymi przyciskami, animacje + dźwięki, przyciski aktywne podczas gry - pause, change speed.
 
 W przyszłości dla praktyki planuję rozwinąć grę o kilka opcji (Między innymi tytułowy multiplayer).
+
+Myślę, że tryb dla 2 graczy jest do osiągnięcia w niedługim czasie, jednak na razie muszę pozostawić ten projekt kosztem zdobywania nowych umiejętności w C++/C#.
