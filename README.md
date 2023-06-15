@@ -7,3 +7,6 @@ Jest to kompletna wersja gry: Menu + Opcje, Jedna mapa w pełni grywalna bez bug
 W przyszłości dla praktyki planuję rozwinąć grę o kilka opcji (Między innymi tytułowy multiplayer).
 
 Myślę, że tryb dla 2 graczy jest do osiągnięcia w niedługim czasie, jednak na razie muszę pozostawić ten projekt kosztem zdobywania nowych umiejętności w C++/C#.
+
+Pomysły:
+1. Multiplayer 2-4 graczy lokalnie (Może online??? -To będzie trudniejsze).
