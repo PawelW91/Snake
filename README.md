@@ -12,3 +12,4 @@ Pomysły:
 1. Multiplayer 2-4 graczy lokalnie (Może online??? -To będzie trudniejsze).
 2. Kilka map do wyboru.
 3. Różne jedzonko:
+   a) zmiana prędkości poruszania się węża (bonus + i bonus -),
