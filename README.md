@@ -13,3 +13,4 @@ Pomysły:
 2. Kilka map do wyboru.
 3. Różne jedzonko:
    a) zmiana prędkości poruszania się węża (bonus + i bonus -),
+   b) zwiększenie/zmniejszenie węża o kilka oczek,
