@@ -9,6 +9,7 @@ W przyszłości dla praktyki planuję rozwinąć grę o kilka opcji (Między inn
 Myślę, że tryb dla 2 graczy jest do osiągnięcia w niedługim czasie, jednak na razie muszę pozostawić ten projekt kosztem zdobywania nowych umiejętności w C++/C#.
 
 
+
 Pomysły:
 1. Multiplayer 2-4 graczy lokalnie (Może online??? -To będzie trudniejsze).
 2. Kilka map do wyboru.
