@@ -10,6 +10,7 @@ Myślę, że tryb dla 2 graczy jest do osiągnięcia w niedługim czasie, jednak
 
 
 
+
 Pomysły:
 1. Multiplayer 2-4 graczy lokalnie (Może online??? -To będzie trudniejsze).
 2. Kilka map do wyboru.
@@ -17,3 +18,5 @@ Pomysły:
    a) zmiana prędkości poruszania się węża (bonus + i bonus -),
    b) zwiększenie/zmniejszenie węża o kilka oczek,
    c) po kolizji brak game over - tylko kara skracająca węża o X oczek - game over kiedy oczek brakuje/brak game over tylko reset do zera.
+
+   
