@@ -17,7 +17,7 @@ Pomysły:
 3. Różne jedzonko:
    a) zmiana prędkości poruszania się węża (bonus + i bonus -),
    b) zwiększenie/zmniejszenie węża o kilka oczek,
-   c) po kolizji brak game over - tylko kara skracająca węża o X oczek - game over kiedy oczek brakuje/brak game over tylko reset do zera.
-   d) 
+   c) po kolizji brak game over - tylko kara skracająca węża o X oczek - game over kiedy oczek brakuje/brak game over tylko reset do zera,
+   d) w multiplayerze brak mozliwosc regulacji predkosci,
 
    
