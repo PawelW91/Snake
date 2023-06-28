@@ -19,5 +19,6 @@ Pomysły:
    b) zwiększenie/zmniejszenie węża o kilka oczek,
    c) po kolizji brak game over - tylko kara skracająca węża o X oczek - game over kiedy oczek brakuje/brak game over tylko reset do zera,
    d) w multiplayerze brak mozliwosc regulacji predkosci,
+   e)
 
    
