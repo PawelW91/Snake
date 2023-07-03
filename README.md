@@ -14,6 +14,7 @@ Myślę, że tryb dla 2 graczy jest do osiągnięcia w niedługim czasie, jednak
 
 
 
+
 Pomysły:
 1. Multiplayer 2-4 graczy lokalnie (Może online??? -To będzie trudniejsze).
 2. Kilka map do wyboru.
