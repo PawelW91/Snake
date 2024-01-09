@@ -1,5 +1,5 @@
-# Snake_Multiplayer
-Gra snake, ale multiplayer. Planuje 2 do 4 graczy lokalnych na jednej mapie z różnymi bonusami za jedzonko.
+# Snake
+Gra oparta o mechanikę Snake'a. W przyszłości planuję 2 do 4 graczy na jednej mapie z różnymi bonusami za jedzonko.
 
 W maju powstała wersja 1.0
 Jest to kompletna wersja gry: Menu + Opcje, Jedna mapa w pełni grywalna bez bugow dla jednego gracza, jeden rodzaj jedzonka zwiekszający węża, Score/High score, Ekran Game Over z funkcyjnymi przyciskami, animacje + dźwięki, przyciski aktywne podczas gry - pause, change speed.
@@ -7,6 +7,11 @@ Jest to kompletna wersja gry: Menu + Opcje, Jedna mapa w pełni grywalna bez bug
 W przyszłości dla praktyki planuję rozwinąć grę o kilka opcji (Między innymi tytułowy multiplayer).
 
 Myślę, że tryb dla 2 graczy jest do osiągnięcia w niedługim czasie, jednak na razie muszę pozostawić ten projekt kosztem zdobywania nowych umiejętności w C++/C#.
+
+
+
+
+
 
 
 
@@ -19,5 +24,6 @@ Pomysły:
    b) zwiększenie/zmniejszenie węża o kilka oczek,
    c) po kolizji brak game over - tylko kara skracająca węża o X oczek - game over kiedy oczek brakuje/brak game over tylko reset do zera,
    d) w multiplayerze brak mozliwosc regulacji predkosci,
+   e)
 
    
