@@ -1,4 +1,4 @@
-# Snake_Multiplayer
+# Snake
 Gra snake, ale multiplayer. Planuje 2 do 4 graczy lokalnych na jednej mapie z różnymi bonusami za jedzonko.
 
 W maju powstała wersja 1.0
