@@ -13,7 +13,7 @@ To run the game, you need to prepare a Unity build. Follow the steps below:
 
 ## How to Run the Game
 
-1. Clone the repository: `git clone https://github.com/your-username/snake-unity.git`
+1. Clone the repository: https://github.com/PawelW91/Snake
 2. Open the project in Unity.
 3. Set up the necessary configurations and build settings.
 4. Build the project using Unity's build tools.
