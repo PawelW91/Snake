@@ -19,6 +19,8 @@ To run the game, you need to prepare a Unity build. Follow the steps below:
 4. Build the project using Unity's build tools.
 5. Run the built executable to play the game.
 
+If you're interested in trying out the game and encounter any difficulties with the build process, feel free to reach out by contacting me at [paw.wachol@gmail.com](mailto:paw.wachol@gmail.com). Upon request, I can provide the game file packaged in a .rar format.
+
 ## System Requirements
 
 - Unity (version 3.7.0)
