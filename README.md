@@ -21,7 +21,7 @@ To run the game, you need to prepare a Unity build. Follow the steps below:
 
 ## System Requirements
 
-- Unity (version X.X.X)
+- Unity (version 3.7.0)
 
 ## Ideas and Future Plans
 
