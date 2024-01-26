@@ -4,7 +4,7 @@
 
 A Snake game implemented in Unity. The game currently supports a single-player mode, and in the future, I plan to introduce a multiplayer mode for 2 to 4 players on a single map, with various bonuses for food.
 
-The May release marked version 1.0.
+The 04.2023 release marked version 1.0.
 It includes a complete game experience: Menu + Options, One fully playable map without bugs for a single player, one type of food increasing the snake's length, Score/High score, Game Over screen with functional buttons, animations + sounds, active buttons during the game - pause, change speed.
 
 Check out the gameplay video (https://www.youtube.com/watch?v=kRN-hNcpuhc).
